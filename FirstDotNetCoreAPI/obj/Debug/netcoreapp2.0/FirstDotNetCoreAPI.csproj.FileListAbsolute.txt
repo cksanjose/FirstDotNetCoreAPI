@@ -1,0 +1,11 @@
+C:\Users\sanjces\source\repos\FirstDotNetCoreAPI\FirstDotNetCoreAPI\bin\Debug\netcoreapp2.0\FirstDotNetCoreAPI.deps.json
+C:\Users\sanjces\source\repos\FirstDotNetCoreAPI\FirstDotNetCoreAPI\bin\Debug\netcoreapp2.0\FirstDotNetCoreAPI.runtimeconfig.json
+C:\Users\sanjces\source\repos\FirstDotNetCoreAPI\FirstDotNetCoreAPI\bin\Debug\netcoreapp2.0\FirstDotNetCoreAPI.runtimeconfig.dev.json
+C:\Users\sanjces\source\repos\FirstDotNetCoreAPI\FirstDotNetCoreAPI\bin\Debug\netcoreapp2.0\FirstDotNetCoreAPI.dll
+C:\Users\sanjces\source\repos\FirstDotNetCoreAPI\FirstDotNetCoreAPI\bin\Debug\netcoreapp2.0\FirstDotNetCoreAPI.pdb
+C:\Users\sanjces\source\repos\FirstDotNetCoreAPI\FirstDotNetCoreAPI\obj\Debug\netcoreapp2.0\FirstDotNetCoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\sanjces\source\repos\FirstDotNetCoreAPI\FirstDotNetCoreAPI\obj\Debug\netcoreapp2.0\FirstDotNetCoreAPI.AssemblyInfoInputs.cache
+C:\Users\sanjces\source\repos\FirstDotNetCoreAPI\FirstDotNetCoreAPI\obj\Debug\netcoreapp2.0\FirstDotNetCoreAPI.AssemblyInfo.cs
+C:\Users\sanjces\source\repos\FirstDotNetCoreAPI\FirstDotNetCoreAPI\obj\Debug\netcoreapp2.0\FirstDotNetCoreAPI.dll
+C:\Users\sanjces\source\repos\FirstDotNetCoreAPI\FirstDotNetCoreAPI\obj\Debug\netcoreapp2.0\FirstDotNetCoreAPI.pdb
+C:\Users\sanjces\source\repos\FirstDotNetCoreAPI\FirstDotNetCoreAPI\obj\Debug\netcoreapp2.0\FirstDotNetCoreAPI.csprojAssemblyReference.cache

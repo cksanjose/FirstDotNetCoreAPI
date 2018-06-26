@@ -1,0 +1,14 @@
+C:\Users\sanjces\source\repos\FirstDotNetCoreAPI\FirstDotNetCoreAPI\bin\Debug\netcoreapp2.1\FirstDotNetCoreAPI.deps.json
+C:\Users\sanjces\source\repos\FirstDotNetCoreAPI\FirstDotNetCoreAPI\bin\Debug\netcoreapp2.1\FirstDotNetCoreAPI.runtimeconfig.json
+C:\Users\sanjces\source\repos\FirstDotNetCoreAPI\FirstDotNetCoreAPI\bin\Debug\netcoreapp2.1\FirstDotNetCoreAPI.runtimeconfig.dev.json
+C:\Users\sanjces\source\repos\FirstDotNetCoreAPI\FirstDotNetCoreAPI\bin\Debug\netcoreapp2.1\FirstDotNetCoreAPI.dll
+C:\Users\sanjces\source\repos\FirstDotNetCoreAPI\FirstDotNetCoreAPI\bin\Debug\netcoreapp2.1\FirstDotNetCoreAPI.pdb
+C:\Users\sanjces\source\repos\FirstDotNetCoreAPI\FirstDotNetCoreAPI\obj\Debug\netcoreapp2.1\FirstDotNetCoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\sanjces\source\repos\FirstDotNetCoreAPI\FirstDotNetCoreAPI\obj\Debug\netcoreapp2.1\FirstDotNetCoreAPI.RazorAssemblyInfo.cache
+C:\Users\sanjces\source\repos\FirstDotNetCoreAPI\FirstDotNetCoreAPI\obj\Debug\netcoreapp2.1\FirstDotNetCoreAPI.RazorAssemblyInfo.cs
+C:\Users\sanjces\source\repos\FirstDotNetCoreAPI\FirstDotNetCoreAPI\obj\Debug\netcoreapp2.1\FirstDotNetCoreAPI.AssemblyInfoInputs.cache
+C:\Users\sanjces\source\repos\FirstDotNetCoreAPI\FirstDotNetCoreAPI\obj\Debug\netcoreapp2.1\FirstDotNetCoreAPI.AssemblyInfo.cs
+C:\Users\sanjces\source\repos\FirstDotNetCoreAPI\FirstDotNetCoreAPI\obj\Debug\netcoreapp2.1\FirstDotNetCoreAPI.RazorTargetAssemblyInfo.cache
+C:\Users\sanjces\source\repos\FirstDotNetCoreAPI\FirstDotNetCoreAPI\obj\Debug\netcoreapp2.1\FirstDotNetCoreAPI.dll
+C:\Users\sanjces\source\repos\FirstDotNetCoreAPI\FirstDotNetCoreAPI\obj\Debug\netcoreapp2.1\FirstDotNetCoreAPI.pdb
+C:\Users\sanjces\source\repos\FirstDotNetCoreAPI\FirstDotNetCoreAPI\obj\Debug\netcoreapp2.1\FirstDotNetCoreAPI.csprojAssemblyReference.cache
