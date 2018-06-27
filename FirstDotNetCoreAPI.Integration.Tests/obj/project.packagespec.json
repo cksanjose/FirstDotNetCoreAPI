@@ -1,0 +1,67 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/cesar.sanjose/RiderProjects/FirstDotNetCoreAPI/FirstDotNetCoreAPI.Integration.Tests/FirstDotNetCoreAPI.Integration.Tests.csproj",
+    "projectName": "FirstDotNetCoreAPI.Integration.Tests",
+    "projectPath": "/Users/cesar.sanjose/RiderProjects/FirstDotNetCoreAPI/FirstDotNetCoreAPI.Integration.Tests/FirstDotNetCoreAPI.Integration.Tests.csproj",
+    "outputPath": "/Users/cesar.sanjose/RiderProjects/FirstDotNetCoreAPI/FirstDotNetCoreAPI.Integration.Tests/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "/Users/cesar.sanjose/RiderProjects/FirstDotNetCoreAPI/FirstDotNetCoreAPI/FirstDotNetCoreAPI.csproj": {
+            "projectPath": "/Users/cesar.sanjose/RiderProjects/FirstDotNetCoreAPI/FirstDotNetCoreAPI/FirstDotNetCoreAPI.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "[2.1.1, )"
+        },
+        "Microsoft.AspNetCore.Mvc.Testing": {
+          "target": "Package",
+          "version": "[2.1.1, )"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.7.2, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "[2.3.1, )"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "[2.3.1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5d026ad-59a8-4edc-b6d5-4d79fc2eb720" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/bin/Debug/netcoreapp2.1/FirstDotNetCoreAPI.Integration.Tests.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/bin/Debug/netcoreapp2.1/FirstDotNetCoreAPI.Integration.Tests.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/bin/Debug/netcoreapp2.1/FirstDotNetCoreAPI.Integration.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/bin/Debug/netcoreapp2.1/FirstDotNetCoreAPI.Integration.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/bin/Debug/netcoreapp2.1/FirstDotNetCoreAPI.Integration.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/bin/Debug/netcoreapp2.1/FirstDotNetCoreAPI.Integration.Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/bin/Debug/netcoreapp2.1/FirstDotNetCoreAPI.Integration.Tests.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/bin/Debug/netcoreapp2.1/FirstDotNetCoreAPI.Integration.Tests.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/bin/Debug/netcoreapp2.1/FirstDotNetCoreAPI.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/bin/Debug/netcoreapp2.1/FirstDotNetCoreAPI.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/bin/Debug/netcoreapp2.1/FirstDotNetCoreAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/bin/Debug/netcoreapp2.1/FirstDotNetCoreAPI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/bin/Debug/netcoreapp2.1/FirstDotNetCoreAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/bin/Debug/netcoreapp2.1/FirstDotNetCoreAPI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.Integration.Tests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.Integration.Tests.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.Integration.Tests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.Integration.Tests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.Integration.Tests.Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.Integration.Tests.Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.Integration.Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.Integration.Tests.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.Integration.Tests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.Integration.Tests.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.Integration.Tests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.Integration.Tests.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.Integration.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.Integration.Tests.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.Integration.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.Integration.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.Integration.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.Integration.Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/obj/FirstDotNetCoreAPI.Integration.Tests.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/obj/FirstDotNetCoreAPI.Integration.Tests.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/obj/FirstDotNetCoreAPI.Integration.Tests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/obj/FirstDotNetCoreAPI.Integration.Tests.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/obj/FirstDotNetCoreAPI.Integration.Tests.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/obj/FirstDotNetCoreAPI.Integration.Tests.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI/bin/Debug/netcoreapp2.1/FirstDotNetCoreAPI.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI/bin/Debug/netcoreapp2.1/FirstDotNetCoreAPI.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI/bin/Debug/netcoreapp2.1/FirstDotNetCoreAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI/bin/Debug/netcoreapp2.1/FirstDotNetCoreAPI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI/bin/Debug/netcoreapp2.1/FirstDotNetCoreAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI/bin/Debug/netcoreapp2.1/FirstDotNetCoreAPI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI/bin/Debug/netcoreapp2.1/FirstDotNetCoreAPI.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI/bin/Debug/netcoreapp2.1/FirstDotNetCoreAPI.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI/obj/FirstDotNetCoreAPI.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI/obj/FirstDotNetCoreAPI.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI/obj/FirstDotNetCoreAPI.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI/obj/FirstDotNetCoreAPI.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI/obj/FirstDotNetCoreAPI.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI/obj/FirstDotNetCoreAPI.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstDotNetCoreAPI/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/FirstDotNetCoreAPI/obj/project.assets.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/FirstDotNetCoreAPI.Integration.Tests/obj/Debug/netcoreapp2.1/FirstDotNetCoreAPI.Integration.Tests.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="48" />
+    <option name="y" value="41" />
+    <option name="width" value="1348" />
+    <option name="height" value="793" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="FirstDotNetCoreAPI (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="FirstDotNetCoreAPI (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="FirstDotNetCoreAPI" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/FirstDotNetCoreAPI/bin/Debug/netcoreapp2.1/FirstDotNetCoreAPI.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FirstDotNetCoreAPI" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:39860/" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FirstDotNetCoreAPI/FirstDotNetCoreAPI.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser start="true" url="http://localhost:39860/" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5d026ad-59a8-4edc-b6d5-4d79fc2eb720" name="Default" comment="" />
+      <created>1530064695958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530064695958</updated>
+      <workItem from="1530064698352" duration="131000" />
+      <workItem from="1530064968158" duration="219000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="350000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="48" y="41" width="1348" height="793" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.4421365" side_tool="true" visible="true" weight="0.32962447" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5578635" weight="0.32962447" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
